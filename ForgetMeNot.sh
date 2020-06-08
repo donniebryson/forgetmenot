@@ -1,6 +1,6 @@
 :
 # ForgetMeNot -- test if autobackup was performed last night 
-# Author: Donald Bryson dbryson@tclock.com -- http://www.tclock.com
+# Author: Donald Bryson 
 # For distribution by Sys Admin Magazine -- http://www.samag.com
 # Last Revision Date: 7/31/97
 
